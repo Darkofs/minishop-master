@@ -10665,3 +10665,32 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+    @media only screen and (max-width: 1000px) {
+      .navbar {
+        display: none;
+      }
+      .navbar-toggler {
+        display: flex;
+        margin-right: 30px;
+        font-size: 2rem;
+      }
+      .img {
+        margin-left:auto
+      }
+      .img2 {
+        margin-left:auto
+      }
+      .hero {
+        grid-template-columns: 1fr;
+      }
+      .text1 {
+        text-align: center;
+      }
+      .text2 {
+        text-align: center;
+      }
+      .navbar {
+        justify-content: space-between;
+      }
+    }
