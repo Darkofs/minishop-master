@@ -8394,12 +8394,12 @@ h1, h2, h3, h4, h5,
       font-weight: bold;
       color: white !important;}
       .hero-wrap .slider-text .breadcrumbs span {
-        color: white; }
+        color: black; }
         .hero-wrap .slider-text .breadcrumbs span a {
-          color: #fff; }
+          color: #000000; }
     .hero-wrap .slider-text .bread {
       font-weight: 800;
-      color: white;
+      color: black;
       font-size: 30px;
       font-family: "Open Sans", Arial, sans-serif;
       letter-spacing: 3px;
